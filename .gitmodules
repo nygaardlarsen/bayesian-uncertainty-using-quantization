@@ -1,0 +1,6 @@
+[submodule "Codebase/Codebase/SWAG"]
+	path = Codebase/Codebase/SWAG
+	url = https://github.com/wjmaddox/swa_gaussian.git
+[submodule "Codebase/SWAG"]
+	path = Codebase/SWAG
+	url = https://github.com/wjmaddox/swa_gaussian.git
